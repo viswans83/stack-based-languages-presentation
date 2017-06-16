@@ -1,6 +1,8 @@
 # Stack Based Languages
-This repository contiains assets for a presentation on the Factor programming language
+This repository contains assets for a presentation about Stack Based Languages
+that focuses on the [Factor][2] programming language.
 
-[View online][1]
+Click [here][1] to view the slides (use the arrow keys or the space key to navigate).
 
 [1]: https://viswans83.github.io/stack-based-languages-presentation
+[2]: https://factorcode.org/
